@@ -24,6 +24,8 @@ students that you want to scan. For example 'first_group = []' and fill it with
 full names like you writed them in Excel-files (with the same rules). 
 There are already 2 groups and 1 group of teachers, you can delete it if 
 you want.
+- In files 'Handler.py' and 'CropingPhotos' you have to choose your way to pytesseract.
+You can do it by writing this 'pytesseract.pytesseract.tesseract_cmd = way'
 - Next go to 'Handler.py' and move to 30th line. There you have to create readbook and 
 workbook for each Excel-file in 'TablesOfGroups'. Use the code like the example.
 - Next go to 'Handler.py' again and move to 76th line: there you have to compare 
@@ -42,3 +44,4 @@ WARNING - !Do not overlap the participants area with other windows!
 ---
 
 I understand that it is hard to launch this project, sorry, i am just learning.
+If you can commit my code to the better code, i would be very pleased.
