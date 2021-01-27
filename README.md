@@ -44,5 +44,5 @@ WARNING - !Do not overlap the participants area with other windows!
 
 ---
 
-I understand that it is hard to launch this project, sorry, i am just learning.
+I understand that it is hard to launch this project by first time, sorry, i am just learning.
 If you can commit my code to the better code, i would be very pleased.
