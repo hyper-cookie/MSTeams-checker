@@ -28,7 +28,7 @@ you want.
 - In files 'Handler.py' and 'CropingPhotos' you have to choose your way to pytesseract.
 You can do it by writing this 'pytesseract.pytesseract.tesseract_cmd = way'
 - Next go to 'Handler.py' and move to 30th line. There you have to create readbook and 
-workbook for each Excel-file in 'TablesOfGroups'. Use the code like the example.
+workbook for each Excel-file in 'TablesOfGroups'. Use the code like in the example.
 - Next go to 'Handler.py' again and move to 76th line: there you have to compare 
 the full name of the student with groups and if this student is in that group 
 then write him name in the excel-file of his group. ( you can remove some 
