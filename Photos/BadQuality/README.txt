@@ -1,1 +1,1 @@
-This folder collects screenshots before binaryning.
+This folder collects screenshots before binaryzing.
