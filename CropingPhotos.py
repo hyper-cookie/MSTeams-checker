@@ -14,7 +14,7 @@ class ImageBinarizer:
     def __init__(self):
         self.BLACK_COLOR = (0, 0, 0)
         self.WHITE_COLOR = (255, 255, 255)
-        self.THRESHOLD = (185, 185, 185)  # 185 и 190 хорошие параметры
+        self.THRESHOLD = (185, 185, 185)
 
         self.actual_image = None
         self.image_pixels = None
