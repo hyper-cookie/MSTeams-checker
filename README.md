@@ -38,3 +38,7 @@ interface to 145% and open participants tab (do not leaf down),
 now you have to launch 'Main.py' and wait for the end of working.
 - Go to folder 'Result' and collect results.
 WARNING - !Do not overlap the participants area with other windows!
+
+---
+
+I understand that it is hard to launch this project, sorry, i am just learning.
