@@ -1,6 +1,6 @@
 from pyautogui import moveTo, scroll
 
-one_block_size = 72  # 72 normal
+one_block_size = 72
 
 
 class MouseMover:
