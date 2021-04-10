@@ -1,6 +1,7 @@
 # MSTeams-checker
 The project reads all people(who is online) in the online-conference in Microsoft Teams.
 (this project use only russian language in working)
+UPDATE: there was a global update of interface of MS Teams. This project can be wrongly launched. Be accurate.
 
 ---
 
